@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.example.org/NewXMLSchema"
+	xsi:schemaLocation="http://www.example.org/NewXMLSchema NewXMLSchema.xsd">
+
+	<food sectionName="coldAppetizers">
+		<photo>fish_plate.jpg</photo>
+		<title>Ассорти рыбное</title>
+		<description>Слабосольная форель, сёмга</description>
+		<portion>100/20/15</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="coldAppetizers">
+		<photo>tartlets_with_caviar.jpg</photo>
+		<title>Тарталетки с красной икрой</title>
+		<description>Тфрталетки с красной икрой</description>
+		<portion>60/50</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="coldAppetizers">
+		<photo>snack_a-la_rus.jpg</photo>
+		<title>Закуска по-русски</title>
+		<description>Кусочки атлантической сельди с отварным картофелем,
+						луком, лимоном и зеленью</description>
+		<portion>70/50/2/10</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="coldAppetizers">
+		<photo>assorted_eggplant.jpg</photo>
+		<title>Ассорти баклажаны</title>
+		<description>Жареные баклажаны с помидорами, с чесноком или с орехами</description>
+		<portion>100/5</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="coldAppetizers">
+		<photo>grandma's_treats.jpg</photo>
+		<title>Бабушкины угощения</title>
+		<description>Ассорти из маринованных грибов</description>
+		<portion>120/20/10</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="coldAppetizers">
+		<photo>greens.jpg</photo>
+		<title>Зелень</title>
+		<description>Кинза, лук, петрушка, укроп, базилик</description>
+		<portion>30</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="hotAppetizers">
+		<photo>lobio_with_mushrooms.jpg</photo>
+		<title>Лобио с шампиньонами</title>
+		<description>Фасоль с шампиньонами и грецким орехом</description>
+		<portion>150/5</portion>
+		<price>105</price>
+	</food>
+
+	<food sectionName="hotAppetizers">
+		<photo>julienne.jpg</photo>
+		<title>Жульен</title>
+		<description>Жульен с курицей</description>
+		<portion>120/1</portion>
+		<price>145</price>
+	</food>
+
+	<food sectionName="hotAppetizers">
+		<photo>surprise.jpg</photo>
+		<title>Сюрприз</title>
+		<description></description>
+		<portion>1 piece</portion>
+		<price>260</price>
+	</food>
+
+	<food sectionName="hotAppetizers">
+		<photo>shrimps.jpg</photo>
+		<title>Креветки</title>
+		<description>Креветки отварные</description>
+		<portion>120/30</portion>
+		<price>135</price>
+	</food>
+
+	<food sectionName="breakfasts">
+		<photo>eggs.jpg</photo>
+		<title>Глазунья</title>
+		<description>2 яйца с ветчиной, сыром или помидорами</description>
+		<portion>150</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="breakfasts">
+		<photo>omlette.jpg</photo>
+		<title>Омлет</title>
+		<description></description>
+		<portion>100</portion>
+		<price>0</price>
+	</food>
+
+	<food sectionName="breakfasts">
+		<photo>pancakes_with_meat.jpg</photo>
+		<title>Блинчики с мясом</title>
+		<description>Жаренные блинчики с мясом</description>
+		<portion>150</portion>
+		<price>0</price>
+	</food>
+
+</menu>
